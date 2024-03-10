@@ -1,1 +1,1 @@
-# activity-6
+# Activity 6
