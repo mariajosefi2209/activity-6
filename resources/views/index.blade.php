@@ -9,5 +9,8 @@
 
     <h1>Product View</h1>
 
+    <a href="{{ route('products.create') }}" class="btn btn-primary">Add Product</a>
+
+
 </body>
 </html>
